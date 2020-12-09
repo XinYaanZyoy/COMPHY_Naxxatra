@@ -4,5 +4,5 @@ ports:
 - port: 1969
   onOpen: open-browser
 tasks:
-- init: /workspace/Naxxatra_COMPHY/run.sh
-  command: cp -r /workspace/Naxxatra_COMPHY/.jupyter /home/gitpod/
+- init: /workspace/COMPHY_Naxxatra/run.sh
+  command: cp -r /workspace/COMPHY_Naxxatra/.jupyter /home/gitpod/
