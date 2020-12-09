@@ -1,0 +1,1 @@
+Type in terminal: $ `jupyter notebook` to run the notebook.
