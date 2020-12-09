@@ -1,1 +1,1 @@
-Type in terminal: $ `jupyter notebook` to run the notebook.
+Type in terminal: $ `jupyter notebook ./nbs --port=1969` to run the notebook.
