@@ -1,0 +1,1 @@
+jupyter nbconvert --to pdf ./nbs/MC_XYZ.ipynb
